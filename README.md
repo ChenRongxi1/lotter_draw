@@ -1,12 +1,10 @@
-# cmd‑lottery‑game
+# lotter_draw
 
 This is a console lottery game written in Python.
 这是一个 Python 编写的命令行抽奖小游戏。
 
 - Game rules and permission logic are designed by myself.
 - 游戏规则、权限逻辑由本人设计。
-- Most of the Python source code is AI‑assisted generated.
-- 大部分 Python 源代码由 AI 辅助生成。
 - `start.bat` is written by me for one‑click launch, no compilation required.
 - `start.bat` 由本人编写，用于一键启动，无需编译。
 
