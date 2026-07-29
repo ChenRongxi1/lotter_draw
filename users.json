@@ -1,0 +1,26 @@
+{
+  "ChenRongxi": {
+    "wallet": {
+      "balance": 900,
+      "total_recharged": 10,
+      "total_won": 1000,
+      "total_spent": 110
+    },
+    "stats": {
+      "total_plays": 11,
+      "total_wins": 10
+    }
+  },
+  "ChenRongjei": {
+    "wallet": {
+      "balance": 0,
+      "total_recharged": 120,
+      "total_won": 0,
+      "total_spent": 120
+    },
+    "stats": {
+      "total_plays": 12,
+      "total_wins": 0
+    }
+  }
+}

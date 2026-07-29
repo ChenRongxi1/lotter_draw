@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-07-29 09:30:05",
+  "total_users": 2,
+  "top_n": 2,
+  "sort_by": "total_wins DESC, net_profit DESC",
+  "leaderboard": [
+    {
+      "username": "ChenRongxi",
+      "total_wins": 10,
+      "total_plays": 11,
+      "win_rate": 90.91,
+      "net_profit": 890,
+      "balance": 900,
+      "total_recharged": 10,
+      "total_won_money": 1000,
+      "total_spent_money": 110,
+      "rank": 1,
+      "medal": "金"
+    },
+    {
+      "username": "ChenRongjei",
+      "total_wins": 0,
+      "total_plays": 12,
+      "win_rate": 0.0,
+      "net_profit": -120,
+      "balance": 0,
+      "total_recharged": 120,
+      "total_won_money": 0,
+      "total_spent_money": 120,
+      "rank": 2,
+      "medal": "银"
+    }
+  ]
+}
